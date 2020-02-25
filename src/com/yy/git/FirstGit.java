@@ -7,8 +7,6 @@ public class FirstGit {
         System.out.println("clone from github");
 
         System.out.println("测试");
-
-        System.out.println("修改主干");
     }
 
     public static void test() {
