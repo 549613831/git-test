@@ -3,6 +3,8 @@ package com.yy.git;
 public class FirstGit {
     public static void main(String[] args) {
         System.out.println("hello git project");
+
+        System.out.println("clone from github");
     }
 
     public static void test() {
