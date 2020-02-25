@@ -5,6 +5,8 @@ public class FirstGit {
         System.out.println("hello git project");
 
         System.out.println("clone from github");
+
+        System.out.println("测试");
     }
 
     public static void test() {
