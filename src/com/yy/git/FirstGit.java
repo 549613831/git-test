@@ -9,6 +9,7 @@ public class FirstGit {
         System.out.println("测试");
 
         System.out.println("修改主干");
+        System.out.println("修改主干2");
     }
 
     public static void test() {
